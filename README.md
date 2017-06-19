@@ -15,7 +15,7 @@ under the GPL3 license
 
 **Saw your dataset here?** Send me a message so I can add your credits (or remove it from here if you want :()
 
-**Viu seu _dataset_ aqui** Me envie uma mensagem para adiconar o seus créditos (ou remover o _dataset_ se você quiser :()
+**Viu seu _dataset_ aqui?** Me envie uma mensagem para adiconar o seus créditos (ou remover o _dataset_ se você quiser :()
 
 ## Analysis Credits (Créditos pelas analises)
 If you submit an analysis and we merge it in the repo, your name will appear here for
