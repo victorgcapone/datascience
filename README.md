@@ -11,7 +11,7 @@ under the GPL3 license
 ## Datasets Links and Credits (Links e Créditos para os datasets)
 - [The NBA Shot Logs Dataset](https://www.kaggle.com/dansbecker/nba-shot-logs) (Credits to [Dan](https://www.kaggle.com/dansbecker))
 - [The Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (Credits to the folks at Kaggle)
-- [The Pokemon with stats Dataset](https://www.kaggle.com/abcsds/pokemon) (Credits to [(Alberto)](https://www.kaggle.com/abcsds))
+- [The Pokemon with stats Dataset](https://www.kaggle.com/abcsds/pokemon) (Credits to [Alberto](https://www.kaggle.com/abcsds))
 
 **Saw your dataset here?** Send me a message so I can add your credits (or remove it from here if you want :()
 
