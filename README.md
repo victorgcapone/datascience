@@ -1,12 +1,17 @@
-# Portifolio de DataScience
+# TheBigDataScienceShowcaseRepo
 
 ## Português
 Esse é um repositório com os meus estudos de data science, todas as análises
 aqui são livres para serem usadas sob a licença GPL3
+O objetivo é disponibilizar material de estudo para pessoas interessados em
+data science com códigos de exemplos, sinta-se livre para elaborar ou
+propor novos exemplos.
 
 ## English
 This is a repository with my studies in data science, all analysis here are
 under the GPL3 license
+The objective is to showcase study material for all people with interest in
+data science, feel free to collaborate with new examples.
 
 ## Datasets Links and Credits (Links e Créditos para os datasets)
 - [The NBA Shot Logs Dataset](https://www.kaggle.com/dansbecker/nba-shot-logs) (Credits to [Dan](https://www.kaggle.com/dansbecker))
